@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/gabrielpasquantonio/gabrielpasquantonio/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Surfer, Developer and Life Enthusiast!!
+## I'm a Brazilian, Developer and Life Enthusiast!!
 
 
 
